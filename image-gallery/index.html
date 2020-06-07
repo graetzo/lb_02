@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image-Gallery</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="lib/galleria/galleria.min.js"></script>
+    <style>
+        .galleria{ width: 700px; height: 400px; background: #000 }
+    </style>
+</head>
+<body>
+
+<div class="galleria">
+    <img src="img/10.jpg" data-title="My title" data-description="My description" alt="Berg-1">
+    <img src="img/11.jpg">
+    <img src="img/13.jpg">
+    <img src="img/29.jpg">
+    <img src="img/48.jpg">
+    <img src="img/49.jpg">
+</div>
+<script>
+    (function() {
+        Galleria.loadTheme('lib/galleria/themes/classic/galleria.classic.js');
+        Galleria.run('.galleria');
+    }());
+</script>
+
+</body>
+</html>
