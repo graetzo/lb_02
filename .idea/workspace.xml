@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76fa3c5f-239e-4f21-ac91-712260556dce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image-gallery/lib/galleria" beforeDir="false" afterPath="$PROJECT_DIR$/image-gallery/lib/galleria" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image-gallery/lib/galleria/.gitignore" beforeDir="false" />
@@ -181,6 +180,7 @@
       <change beforePath="$PROJECT_DIR$/image-gallery/lib/galleria/src/themes/twelve/separator.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/image-gallery/lib/galleria/src/themes/twelve/thumbs-neg.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/image-gallery/lib/galleria/src/themes/twelve/thumbs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lb_03.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,6 +234,7 @@
       <workItem from="1591003841394" duration="6255000" />
       <workItem from="1591437195183" duration="16232000" />
       <workItem from="1591523012264" duration="5244000" />
+      <workItem from="1591774268552" duration="3823000" />
     </task>
     <servers />
   </component>
