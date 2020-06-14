@@ -180,7 +180,6 @@
       <change beforePath="$PROJECT_DIR$/image-gallery/lib/galleria/src/themes/twelve/separator.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/image-gallery/lib/galleria/src/themes/twelve/thumbs-neg.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/image-gallery/lib/galleria/src/themes/twelve/thumbs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lb_03.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +233,8 @@
       <workItem from="1591003841394" duration="6255000" />
       <workItem from="1591437195183" duration="16232000" />
       <workItem from="1591523012264" duration="5244000" />
-      <workItem from="1591774268552" duration="3823000" />
+      <workItem from="1591774268552" duration="3865000" />
+      <workItem from="1592124210472" duration="1045000" />
     </task>
     <servers />
   </component>
