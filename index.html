@@ -252,7 +252,6 @@
 
           </div>
           <!--/Grid column-->
-
         </div>
         <!--/Grid row-->
 
@@ -287,6 +286,8 @@
         </div>
 
 
+
+
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
         <script src="image-gallery/lib/galleria/galleria.min.js"></script>
         <style>
@@ -309,9 +310,13 @@
         <script>
           (function() {
             Galleria.loadTheme('image-gallery/lib/galleria/themes/classic/galleria.classic.js');
-            Galleria.run('.galleria');
+            Galleria.run('.galleria', {
+              autoplay: 7000 // will move forward every 7 seconds
+            });
           }());
         </script>
+
+
 
 
 

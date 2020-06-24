@@ -234,11 +234,20 @@
       <workItem from="1591437195183" duration="16232000" />
       <workItem from="1591523012264" duration="5244000" />
       <workItem from="1591774268552" duration="3865000" />
-      <workItem from="1592124210472" duration="1045000" />
+      <workItem from="1592124210472" duration="1048000" />
+      <workItem from="1592381783163" duration="2344000" />
+      <workItem from="1592411717825" duration="1165000" />
+      <workItem from="1592987474725" duration="1249000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1592381916394">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="498" y="282" width="683" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592381916394" />
   </component>
 </project>
